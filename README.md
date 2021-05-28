@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luka Nikolic
 - 👀 I’m interested in programming
-- 🌱 I’m currently studying (final year) Faculty of Organizational Sciences of the University of Belgrade (FON)
+- 🌱 I’m currently studying (final year) Faculty of Organizational Sciences of the University of Belgrade (FON), Department of Information Systems and Technology
 - 📫 My email: lukanikolic3620@mail.com
 
 <!---
